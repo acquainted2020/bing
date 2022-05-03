@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://www.bbc.com/zhongwen/simp/$1"}
+      {"src": "/(.*)","dest": "https://www.bing.com/?cc=hk&toWww=1&redig=211DD2698D8643DBB6C27BB81AEE7A88/$1"}
   ]
 }
